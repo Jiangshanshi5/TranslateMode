@@ -1,0 +1,10 @@
+{
+    "host": "LOCALHOST",
+    "port": 3306,
+    "user": "USER",
+    "password": "PASSWORD",
+    "database": "DATABASE",
+    "api_key": "microsoft_api_key",
+    "api_region": "global",
+    "batch_size": 10
+}
